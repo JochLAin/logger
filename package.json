@@ -1,0 +1,25 @@
+{
+  "name": "@jochlain/logger",
+  "version": "1.0.0",
+  "description": "logger interface in node / js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JochLAin/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "jochlain <jocelyn@faihy.fr>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/JochLAin/logger/issues"
+  },
+  "homepage": "https://github.com/JochLAin/logger#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
